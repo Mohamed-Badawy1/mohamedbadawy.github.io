@@ -108,9 +108,9 @@ function initNavbar() {
 function initTypingEffect() {
     const element = document.getElementById('typedText');
     const texts = [
+        'Software Operations Engineer',
+        'Business Application Developer',
         'Software Developer',
-        'Power Platform Developer',
-        'Backend Developer',
         'Problem Solver'
     ];
     let textIndex = 0;
