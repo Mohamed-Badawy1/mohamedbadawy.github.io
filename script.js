@@ -109,9 +109,8 @@ function initTypingEffect() {
     const element = document.getElementById('typedText');
     const texts = [
         'Software Developer',
-        'Power Platform Engineer',
+        'Power Platform Developer',
         'Backend Developer',
-        'ICPC Contestant',
         'Problem Solver'
     ];
     let textIndex = 0;
